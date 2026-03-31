@@ -51,7 +51,6 @@ Currently focused on **AWS Cloud Security**, **DevSecOps**, and **Automation**.
 ---
 
 ## 🌎 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Email](mailto:your@email.com)
+
 
 ---
